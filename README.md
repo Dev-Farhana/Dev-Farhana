@@ -14,10 +14,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dev-farhana&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-farhana&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="250px"/>
 
----
+<!-- ### 😂 Random Dev Meme -->
+
+<img src= " https://cdn-media-1.freecodecamp.org/images/6p3M08-tAVlfvEgrFTkrDOccuRRPzmAP9lZo" width="250px" />
+
 [![](https://visitcount.itsvg.in/api?id=dev-farhana&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
