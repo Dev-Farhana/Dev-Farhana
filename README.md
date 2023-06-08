@@ -6,7 +6,7 @@
 # 💫 About Me:
 <br>🌱 I’m currently learning different programing languages to build interactive websites. <br>💬 I've already learn HTML , CSS3 and now learning JavaScript, the scripting language **Javascript (ECMA Script-6)** <br>⚡ Fun fact I'm an introvert. 
 
-<img src= "https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif" width= "250px" />
+<img src= "https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif" width= "auto" />
 <!-- <img src= " https://cdn-media-1.freecodecamp.org/images/6p3M08-tAVlfvEgrFTkrDOccuRRPzmAP9lZo" width="250px" /> -->
 
 
