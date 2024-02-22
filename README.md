@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ThreeJS and NextJs.**
 
-- 💬 Ask me about **react and gsap.**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **code.nana22@gmail.com**
 
@@ -26,5 +26,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-farhana&show_icons=true&locale=en" alt="dev-farhana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-farhana&" alt="dev-farhana" /></p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
